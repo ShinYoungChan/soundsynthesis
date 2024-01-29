@@ -4,6 +4,7 @@
 * 복잡한 3차원 유체의 움직임 대신 2차원으로 투영하여 소리를 합성하고 제어하는 방법
 
 [dbpia 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140488)
+
 [dbpia 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11213481)
 
 # 프로젝트 기간
