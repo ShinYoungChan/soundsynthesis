@@ -2,6 +2,8 @@
 * 거품 입자의 물리적 속성을 활용하여 가상 시뮬레이션 장면에 맞는 거품 사운드 합성
 * 사운드의 물리적 현상을 기반으로 사운드의 크기를 제어
 * 복잡한 3차원 유체의 움직임 대신 2차원으로 투영하여 소리를 합성하고 제어하는 방법
+[dbpia 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140488)
+[dbpia 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11213481)
 
 # 프로젝트 기간
 * 2022.01 ~ 2022.12
